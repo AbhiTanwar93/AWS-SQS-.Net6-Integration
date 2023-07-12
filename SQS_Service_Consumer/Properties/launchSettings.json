@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "SQS_Service_Consumer": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
